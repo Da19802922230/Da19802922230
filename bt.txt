@@ -1,0 +1,11 @@
+【云服务器】请在安全组放行 29512 端口
+ 外网面板地址: https://43.139.208.31:29512/c1ddc35a
+ 内网面板地址: https://10.1.20.3:29512/c1ddc35a
+ username: 01yzibb6
+ password: 5fd148cd
+
+ 浏览器访问以下链接，添加宝塔客服
+ https://www.bt.cn/new/wechat_customer
+==================================================================
+Time consumed: 1 Minute!
+lighthouse@VM-20-3-ubuntu:~$ 
