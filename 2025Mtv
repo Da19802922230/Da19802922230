@@ -1,39 +1,39 @@
-🇨🇳央视频道,#genre#
-CCTV-1 综合[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1 综合[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1 综合[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-2 财经[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-2 财经[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-2 财经[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-3 综艺[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-3 综艺[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-4 中文国际[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-4 中文国际[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-4 中文国际[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5 体育[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5 体育[1920*1080],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV-5 体育[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5+ 体育赛事[1920*1080],http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1533622857_-1749657613/ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8?icpid=3&RTS=1674385944&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-5+ 体育赛事[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5+ 体育赛事[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 电影[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 电影[1920*1080],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-CCTV-6 电影[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 电影[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-7 国防军事[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-7 国防军事[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-8 电视剧[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-8 电视剧[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-9 纪录[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-9 纪录[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-10 科教[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-10 科教[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-11 戏曲[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-11 戏曲[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-12 社会与法[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-12 社会与法[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-13 新闻[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-13 新闻[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-13新闻[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-13新闻[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+使用
+控制+百万
+切换
+突耳
+按键移动焦点。或者，使用
+欧洲心脏病学会
+然后
+移动到页面上的下一个交互元素 225MV
+移动到页面上的下一个交互元素 225MV
+央视频道，您的风格#
+CCTV-1综合[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch 000000909900000000001068/index. m 3 u 8？virtualDomain=yinhe。live_hls. zte. com
+CCTV-1综合[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch 000000909900000000001068/index. m 3 u 8？virtualDomain=yinhe。live_hls. zte. com
+CCTV-1综合[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-2财经[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch 0000009099000000001293/index. m 3 u 8？virtualDomain=yinhe。live_hls. zte. com
+CCTV-2财经[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-2财经[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-3综艺[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-3综艺[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-4中文国际[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-4中文国际[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-4中文国际[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5体育[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5体育[1920*1080]，http：//[2409:8087:2001:20:2800:0:df 6 e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV-5体育[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5+体育赛事[1920*1080]，http：//[2409:8087:2001:20:2800:0:df 6 e:eb12]：80/wh7f454C46tw1533622857_-1749657613/ott.mobaibox.Com/PLTV/3/224/3221227502/index.m3u8?iCpid=3&RTS=1674385944&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+CCTV-5+体育赛事[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch 000000909900000000000000001008/index. m 3 u 8？virtualDomain=yinhe。live_hls. zte. com
+CCTV-5+体育赛事[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch 0000009099000000000000001008/index. m 3 u 8？virtualDomain=yinhe。live_hls. zte. com
+CCTV-6电影[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-6电影[1920*1080]，http：//[2409:8087:2001:20:2800:0:df 6 e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV-6电影[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-6电影[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-7国防军事[1920*1080]，http：//[2409:8087:7004:20:1000:：22]：6610/yinhe/2/ch 0000009099000000001291/index. m 3 u 8？virtualDomain=yinhe。live_hls. zte. com
+CCTV-7国防军事[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-8电视剧[1920*1080]，http：//[2409:8087:7000:20:1000:：22]：6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-14 少儿[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-14 少儿[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-15 音乐[1920*1080],http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
